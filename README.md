@@ -19,8 +19,8 @@ A DAO is not driven by a central planning office, it is driven via democratic pr
 - Plan, Do, Monitor, Repeat
 
 ## References
-https://medium.com/@wearemoonjelly/the-conservation-dao-using-blockchain-to-decentralize-conservation-baf683f1ae24
-https://www.half-earthproject.org/
-https://ccl.northwestern.edu/netlogo/models/Fire
+- https://medium.com/@wearemoonjelly/the-conservation-dao-using-blockchain-to-decentralize-conservation-baf683f1ae24
+- https://www.half-earthproject.org/
+- https://ccl.northwestern.edu/netlogo/models/Fire
 
 
