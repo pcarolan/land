@@ -4,7 +4,7 @@
 Biodiversity is disappearing at a rate faster than it is being generated. We need to act fast using scalable solutions that can move faster than the exponential processes destroying our biodiverse habitats. Collective action is required to reach sufficient speed and scale. Centralization can’t solve this problem – solutions must be network driven and operate within local communities.
 
 ## The Goal
-Conserve ½ the biodiversity  earth.
+Protect the biodiversity on earth by conserving ½ the earth.
 
 ## The Solution
 The solution is a network of autonomous, decentralized, self-similar, borderless communities in service of a goal, or as we call it a LanDAO. A decentralized autonomous organization can provide a system for distributed action and decision making without the constraints of a central governing bureaucracy. It can do so by generating and deploying resources at a local level powered by the collective resources of a large scale organization. Thus unlocking both the power of scale and the power of local communities. The company’s heuristics will be goal driven and communities will operate autonomously in the service of conserving and generating biodiverse local habitats. To fund such an operation, a sustainable investment and operational model is required. Funding will be created via the issuance of $land tokens which will serve to both fund the organization as well as bestow the token holder and its local chapter, co-operative ownership and voting rights in the DAO.
